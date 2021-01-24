@@ -48,7 +48,7 @@
          <!-- Navbar -->
          <ul class="navbar-nav ml-auto ml-md-0 osahan-right-navbar">
             <li class="nav-item mx-1">
-               <a class="nav-link" href="http://iptvde.mypressonline.com/">
+               <a class="nav-link" href="https://cmw1992.github.io/Web-IPTV-Player/">
                <i class="fas fa-plus-circle fa-fw"></i>
                </a>
             </li>
